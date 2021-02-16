@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Client.cpp
+c:\users\admin\desktop\vol_client\vol_client\client.cpp(75): warning C4244: 'return': conversion from 'SOCKET' to 'int', possible loss of data
+c:\users\admin\desktop\vol_client\vol_client\client.cpp(82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\admin\desktop\vol_client\vol_client\client.cpp(124): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\admin\desktop\vol_client\vol_client\client.cpp(124): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Vol_Client.vcxproj -> C:\Users\Admin\Desktop\Vol_Client\x64\Debug\Vol_Client.exe
+  Vol_Client.vcxproj -> C:\Users\Admin\Desktop\Vol_Client\x64\Debug\Vol_Client.pdb (Partial PDB)
